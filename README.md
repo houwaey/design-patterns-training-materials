@@ -1,5 +1,10 @@
 ## design-patterns-training-materials
 
+IntelliJ:
+```
+Download link: https://www.jetbrains.com/idea/download/#section=windows
+```
+
 Gradle:
 ```
 Download link: https://gradle.org/releases/
